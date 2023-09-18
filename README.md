@@ -22,5 +22,5 @@ We have decided to dig into the effects of different parameters. For both CNN an
 - Patience of Early Stopping
 - Batch Size
 
-![cnn_accuracy](https://github.com/matthewchan55/CS4487-MachineLearning-Project/assets/75091114/2d83f554-eab1-4a36-b8a7-2611f00bbd69)
-![resnet_accuracy](https://github.com/matthewchan55/CS4487-MachineLearning-Project/assets/75091114/d1b2b45a-4e86-48a9-9c38-25091bff1ad1)
+![cnn_accuracy](/screenshots/cnn_accuracy.PNG)
+![resnet_accuracy](/screenshots/resnet_accuracy.png)
